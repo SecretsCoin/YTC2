@@ -1,0 +1,2 @@
+debian/bin/yutocoind usr/bin
+src/yutocoind usr/lib/yutocoin
